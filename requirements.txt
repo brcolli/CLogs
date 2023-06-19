@@ -1,0 +1,2 @@
+Faker~=18.10.1
+python-dotenv~=1.0.0
